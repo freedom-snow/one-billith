@@ -1,5 +1,5 @@
-# one-billith en
-one-billith, short for "one in a billion".
+# One-billith
+One-billith, short for "one in a billion".
 
 This is a meta-system and cognitive ladder framework.
 An open self-consistent state is a rare possibility, not an entry filter or mandatory target.
@@ -9,8 +9,8 @@ Everyone advances at their own pace. There is no terminal destination for cognit
 
 This repository stores drafts, notes and iterative records of Meta-cultivation, Meta-system and Cognitive Ladder.
 
-# one-billith cn
-one-billith，取自 one in a billion，亿中之一。
+# 亿分之一俱乐部
+One-billith，取自 one in a billion，亿中之一。
 
 这是一套自洽系统与认知天梯框架。
 心性自洽闭环是一种稀缺的可能性，不是准入门槛，也不是强制目标。
